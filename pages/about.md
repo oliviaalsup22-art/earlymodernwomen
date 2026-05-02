@@ -6,9 +6,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 ---
 
-{% include feature/jumbotron.html objectid="coll011" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+featured-image: coll011
 
 ## About the Collection
 
