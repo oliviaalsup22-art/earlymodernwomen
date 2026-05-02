@@ -6,7 +6,6 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 ---
 
-featured-image: coll011
 
 ## About the Collection
 
