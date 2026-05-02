@@ -14,27 +14,27 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://oliviaalsup22-art.github.io/earlymodernwomen/
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Early Modern Women Writers
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A collection of digital facsimiles of women’s writing and writing about women’s lives from the early modern period.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "A collection of digital facsimiles of women’s writing and writing about women’s lives from the early modern period. This includes traditional literary writing by women, such as manuscripts of poetry and plays, as well as domestic writing (family medicine and cookbooks) and essays advocating for women’s autonomy and education. The purpose of this collection is to create a repository of online primary textual materials focusing on the writing and lives of early modern women to serve as a teaching resource to help students understand early modern material and book history as it pertains to women’s writing."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Olivia Alsup
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: alsup_metadata_final
 
 ##########
 # Site/Organization Branding 
